@@ -1,0 +1,6 @@
+﻿  Main.cpp
+e:\lab4_threads\actionthreads\actionthreads\main.cpp(60): warning C4018: '<': signed/unsigned mismatch
+e:\lab4_threads\actionthreads\actionthreads\main.cpp(86): warning C4018: '<': signed/unsigned mismatch
+e:\lab4_threads\actionthreads\actionthreads\main.cpp(101): warning C4018: '<': signed/unsigned mismatch
+  ActionThreads.vcxproj -> E:\Lab4_Threads\ActionThreads\Debug\ActionThreads.exe
+  ActionThreads.vcxproj -> E:\Lab4_Threads\ActionThreads\Debug\ActionThreads.pdb (Full PDB)

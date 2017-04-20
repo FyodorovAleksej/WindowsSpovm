@@ -1,0 +1,12 @@
+﻿  MainThreads.cpp
+e:\lab4_threads\queuethreads\queuethreads\mainthreads.cpp(20): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+e:\lab4_threads\queuethreads\queuethreads\mainthreads.cpp(36): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+e:\lab4_threads\queuethreads\queuethreads\mainthreads.cpp(69): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+e:\lab4_threads\queuethreads\queuethreads\mainthreads.cpp(30): warning C4101: 'hThread': unreferenced local variable
+e:\lab4_threads\queuethreads\queuethreads\mainthreads.cpp(29): warning C4101: 'hEvent': unreferenced local variable
+e:\lab4_threads\queuethreads\queuethreads\mainthreads.cpp(31): warning C4101: 'dwThreadId': unreferenced local variable
+  QueueThreads.vcxproj -> E:\Lab4_Threads\QueueThreads\Debug\QueueThreads.exe
+  QueueThreads.vcxproj -> E:\Lab4_Threads\QueueThreads\Debug\QueueThreads.pdb (Full PDB)
